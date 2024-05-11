@@ -1,0 +1,26 @@
+{
+    "main": {
+        "title": "Language Support",
+        "bodytext": "Visit mobilerDev for language support article"
+    },
+    "home":{
+        "baslik":"Find Your Taxi",
+        "buton":"Send a taksi",
+        "logbaslik":"Welcome",
+        "altbaslik":"Please Log In",
+        "telefon":"Log In With a Phone Number",
+        "uye":"Sign Up",
+        "logbuton":"Sign In",
+        "kampanya":"Offers",
+        "duraklar":"Taxi Stands",
+        "oneri":"Opinions and Suggestions",
+        "hak":"About Us"
+    },
+    "reg":{
+        "email":"Email",
+        "sifre":"Password",
+        "Ad":"Name",
+        "telefon":"Phone Number",
+        "buton":"Sign Up"
+    }
+    }

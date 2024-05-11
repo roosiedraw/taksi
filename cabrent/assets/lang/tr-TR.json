@@ -1,0 +1,27 @@
+{
+    "main": {
+        "title": "Dil Desteği",
+        "bodytext": "Dil Desteği yazısı için MobilerDev'i ziyaret edin."
+    },
+    "home":{
+                "baslik":"Aradığınız Taksiyi Bulun",
+                "buton":"Taksi Gönder",
+                "logbaslik":"Hoşgeldiniz",
+                "altbaslik":"Lütfen Giriş Yapın",
+                "telefon":"Telefon ile giriş yap",
+                "uye":"Üye ol",
+                "logbuton":"Giriş Yap",
+                "kampanya":"Kampanyalar",
+                "duraklar":"Taksi Durakları",
+                "oneri":"Görüş ve Öneriler",
+                "hak":"Hakkımızda"
+    },
+    "reg":{
+        "email":"Email",
+        "sifre":"Şifre",
+        "Ad":"Adınız",
+        "telefon":"Telefon Numaranız",
+        "buton":"Üye Ol"
+    }
+
+}

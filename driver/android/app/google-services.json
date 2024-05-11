@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "648286966791",
+    "project_id": "taksi-3a8ce",
+    "storage_bucket": "taksi-3a8ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648286966791:android:20d13e246c96f5766806a2",
+        "android_client_info": {
+          "package_name": "com.example.cabrent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648286966791-lv3m6lm7l8a4f2sq65j8ckk560p1n6j8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cabrent",
+            "certificate_hash": "9e12614c390c7351d1cccb13593e6d8f1ab06fae"
+          }
+        },
+        {
+          "client_id": "648286966791-pmh5u93n8ogcdagq75abrin8mi624e6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAgUrsldNC61PqFCCLm_d8BRNWA3d5pfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648286966791-pmh5u93n8ogcdagq75abrin8mi624e6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648286966791:android:6e56abc557f422c96806a2",
+        "android_client_info": {
+          "package_name": "com.example.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648286966791-pmh5u93n8ogcdagq75abrin8mi624e6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAgUrsldNC61PqFCCLm_d8BRNWA3d5pfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648286966791-pmh5u93n8ogcdagq75abrin8mi624e6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
